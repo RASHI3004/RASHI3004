@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I am Rashi Singh - an AI Enthusiast, a Web Developer(HTML, CSS, PHP, JS, BOOTSRAP) and a Programmer(C, C++, Python).
+🔭 I am currently working as a Project Intern - Machine Learning, Artificial Intelligence @Discover Technologies.
+🔭 I have previously worked as a Web Development Intern @Digital Inclined and Python, C++ Programmer @Codespeedy Technology Pvt. Ltd.
+🌱 I am currently learning and increasing my knowledge in Artificial Intelligence and related field.
+👯 I am looking to collaborate on any project related to AI and ML.
+💬 Ask me about anything and everything!
+📫 How to reach me: rashisingh3004@gmail.com
+ 
