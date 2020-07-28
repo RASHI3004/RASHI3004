@@ -27,5 +27,5 @@ Here are some ideas to get you started:
 </br>
   💬  Ask me about anything and everything!
 </br>
-  📫  How to reach me: rashisingh3004@gmail.com
+  📫  How to reach me: <a href="mailto:rashisingh3004@gmail.com">rashisingh3004@gmail.com</a>
  
