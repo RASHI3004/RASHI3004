@@ -15,17 +15,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 </br>
-I am Rashi Singh - an AI Enthusiast, a Web Developer(HTML, CSS, PHP, JS, BOOTSRAP) and a Programmer(C, C++, Python).
+  :smiley:I am Rashi Singh - an AI Enthusiast, a Web Developer(HTML, CSS, PHP, JS, BOOTSRAP) and a Programmer(C, C++, Python).
 </br>
-🔭 I am currently working as a Project Intern - Machine Learning, Artificial Intelligence @Discover Technologies.
+  :computer:I am currently working as a Project Intern - Machine Learning, Deep Learning @Discover Technologies.
 </br>
-🔭 I have previously worked as a Web Development Intern @Digital Inclined and Python, C++ Programmer @Codespeedy Technology Pvt. Ltd.
+  :computer:I have previously worked as a Web Development Intern @Digital Inclined and Python, C++ Programmer @Codespeedy Technology Pvt. Ltd.
 </br>
-🌱 I am currently learning and increasing my knowledge in Artificial Intelligence and related field.
+  🌱 I am currently learning and increasing my knowledge in Artificial Intelligence and related fields.
 </br>
-👯 I am looking to collaborate on any project related to AI and ML.
+  :raised_hand:I am looking to collaborate on any project related to AI.
 </br>
-💬 Ask me about anything and everything!
+  💬 Ask me about anything and everything!
 </br>
-📫 How to reach me: rashisingh3004@gmail.com
+  📫 How to reach me: rashisingh3004@gmail.com
  
