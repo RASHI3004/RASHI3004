@@ -23,7 +23,6 @@ Here are some ideas to get you started:
   <ul> <li>Project Intern - Machine Learning, Deep Learning @Discover Technologies</li>
   <li> Web Development Intern @Digital Inclined</li>
   <li> Python, C++ Programmer @Codespeedy Technology Pvt. Ltd.</li></ul>
-</br>
   🌱  I am currently learning and increasing my knowledge in Artificial Intelligence and related fields.
 </br>
   :raised_hand:  I am looking to collaborate on any project related to AI.
