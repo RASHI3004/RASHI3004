@@ -19,7 +19,10 @@ Here are some ideas to get you started:
 </br>
   :computer:  I am currently working as a Open Source Developer @GSsoc'20 Extended Program.
 </br>
-  :computer:  I have previously worked as a Project Intern - Machine Learning, Deep Learning @Discover Technologies, Web Development Intern @Digital Inclined and Python, C++ Programmer @Codespeedy Technology Pvt. Ltd.
+  :computer:  I have previously worked as a 
+  <ul> <li>Project Intern - Machine Learning, Deep Learning @Discover Technologies</li>
+  <li> Web Development Intern @Digital Inclined</li>
+  <li> Python, C++ Programmer @Codespeedy Technology Pvt. Ltd.</li></ul>
 </br>
   🌱  I am currently learning and increasing my knowledge in Artificial Intelligence and related fields.
 </br>
