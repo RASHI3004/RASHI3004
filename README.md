@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 </br>
   :smiley:  I am Rashi Singh - an AI Enthusiast, a Web Developer(HTML, CSS, PHP, JS, BOOTSRAP) and a Programmer(C, C++, Python).
 </br>
-  :computer:  I am currently working as a Project Intern - Machine Learning, Deep Learning @Discover Technologies and am also a part of GSsoc'20 Extended Program.
+  :computer:  I am currently working as a Open Source Developer @GSsoc'20 Extended Program.
 </br>
-  :computer:  I have previously worked as a Web Development Intern @Digital Inclined and Python, C++ Programmer @Codespeedy Technology Pvt. Ltd.
+  :computer:  I have previously worked as a Project Intern - Machine Learning, Deep Learning @Discover Technologies, Web Development Intern @Digital Inclined and Python, C++ Programmer @Codespeedy Technology Pvt. Ltd.
 </br>
   🌱  I am currently learning and increasing my knowledge in Artificial Intelligence and related fields.
 </br>
