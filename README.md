@@ -30,9 +30,9 @@ Here are some ideas to get you started:
   💬  Ask me about anything and everything!
 </br>
   📫  How to reach me: <a href="mailto:rashisingh3004@gmail.com">rashisingh3004@gmail.com</a>
-  
- </br>
- ### Languages and Tools :
+</br>
+
+### Languages and Tools :
 
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 </br>
-
+</br>
 ![rashi3004's github stats](https://github-readme-stats.vercel.app/api?username=rashi3004&show_icons=true&hide_border=true)
 </BR>
 <p><a href="https://github.com/RASHI3004" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
