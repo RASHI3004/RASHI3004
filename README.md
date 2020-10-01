@@ -47,6 +47,8 @@ Here are some ideas to get you started:
 
 ![rashi3004's github stats](https://github-readme-stats.vercel.app/api?username=rashi3004&show_icons=true&hide_border=true)
 </BR>
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=shinokada)
+</br>
 <p><a href="https://github.com/RASHI3004" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
   </br> 
   <a href="http://www.linkedin.com/in/rashi-singh-83b649188" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <p style="text-align:right;"><img src="https://komarev.com/ghpvc/?username=RASHI3004" alt="counter" /></p>
