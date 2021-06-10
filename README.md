@@ -17,9 +17,10 @@ Here are some ideas to get you started:
 </br>
   :smiley:  I am Rashi Singh - an AI Enthusiast, a Web Developer(HTML, CSS, PHP, JS, BOOTSTRAP) and a Programmer(C, C++, Python).
 </br>
-  :computer:  I am currently working as a Open Source Developer @GSsoc'20 Extended Program.
+  :computer:  I am currently a student at Jaypee University of Information Technology.
 </br>
-  :computer:  I have previously worked as a 
+  :computer:  I have previously worked as 
+  <ul> <li>Open Source Developer @GSsoc'20 Extended Program</li>
   <ul> <li>Project Intern - Machine Learning, Deep Learning @Discover Technologies</li>
   <li> Web Development Intern @Digital Inclined</li>
   <li> Python, C++ Programmer @Codespeedy Technology Pvt. Ltd.</li></ul>
