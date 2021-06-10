@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 </br>
   :computer:  I have previously worked as 
   <ul> <li>Open Source Developer @GSsoc'20 Extended Program</li>
-  <ul> <li>Project Intern - Machine Learning, Deep Learning @Discover Technologies</li>
+  <li>Project Intern - Machine Learning, Deep Learning @Discover Technologies</li>
   <li> Web Development Intern @Digital Inclined</li>
   <li> Python, C++ Programmer @Codespeedy Technology Pvt. Ltd.</li></ul>
   🌱  I am currently learning and increasing my knowledge in Artificial Intelligence and related fields.
