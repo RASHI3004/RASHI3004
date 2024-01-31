@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 </br>
   :smiley:  I am Rashi Singh - an AI Enthusiast, a Web Developer(HTML, CSS, PHP, JS, BOOTSTRAP) and a Programmer(C, C++, Python).
 </br>
-  :computer:  I am currently a student at Jaypee University of Information Technology.
+  :computer:  I am currently a backend Developer coding in Go.
 </br>
   :computer:  I have previously worked as 
   <ul> <li>Open Source Developer @GSsoc'20 Extended Program</li>
