@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 </br>
-  :smiley:  I am Rashi Singh - an AI Enthusiast, a Web Developer(HTML, CSS, PHP, JS, BOOTSTRAP) and a Programmer(C, C++, Python).
+  :smiley:  I am Rashi Singh - a Data Science Enthusiast and a Software Developer(C, C++, Python, Go).
 </br>
   :computer:  I am currently a backend Developer coding in Go.
 </br>
