@@ -24,9 +24,9 @@ Here are some ideas to get you started:
   <li>Project Intern - Machine Learning, Deep Learning @Discover Technologies</li>
   <li> Web Development Intern @Digital Inclined</li>
   <li> Python, C++ Programmer @Codespeedy Technology Pvt. Ltd.</li></ul>
-  🌱  I am currently learning and increasing my knowledge in Artificial Intelligence and related fields.
+  🌱  I am currently learning and increasing my knowledge in Data Science and related fields. I also have two published research papers in Machine Learning and Deep Learning.
 </br>
-  :raised_hand:  I am looking to collaborate on any project related to AI.
+  :raised_hand:  I am looking to collaborate on any project related to Data Science.
 </br>
   💬  Ask me about anything and everything!
 </br>
@@ -37,9 +37,7 @@ Here are some ideas to get you started:
 
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="XAMPP" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />
 <img align="left" alt="XAMPP" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
 <img align="left" alt="XAMPP" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
