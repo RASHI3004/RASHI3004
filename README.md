@@ -15,20 +15,41 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 </br>
-  :smiley:  I am Rashi Singh - a Data Science Enthusiast and a Software Developer(C, C++, Python, Go).
+  :smiley: I’m Rashi Singh
 </br>
-  :computer:  I am currently a backend Developer coding in Go.
+  🎓 MBA Candidate (Digital Transformation, NMIMS Mumbai, 2024–26) | Ex-SDE @ Zopsmart | Data Analytics & AI Enthusiast
 </br>
-  :computer:  I have previously worked as 
-  <ul> <li>Open Source Developer @GSsoc'20 Extended Program</li>
-  <li>Project Intern - Machine Learning, Deep Learning @Discover Technologies</li>
-  <li> Web Development Intern @Digital Inclined</li>
-  <li> Python, C++ Programmer @Codespeedy Technology Pvt. Ltd.</li></ul>
-  🌱  I am currently learning and increasing my knowledge in Data Science and related fields. I also have two published research papers in Machine Learning and Deep Learning.
 </br>
-  :raised_hand:  I am looking to collaborate on any project related to Data Science.
+💻 Experience:
+<ul>
+<li>Software Development Engineer-1 @ Zopsmart → built scalable systems with Kafka, REST APIs, and Azure.>/li>
+<li>Data Analytics & Insights Intern @ Marsh McLennan → automated insurance reporting using Power BI, Python, and RAG-based apps.</li>
+<li>Internships in ML/DL (Discover Technologies), Open Source (GSSoC’20), and Web Development.</li>
+</ul>
+</br>
+📚 Research & Publications:
+<ul>
+<li>Conference Paper (Springer, 2022) – Pneumonia detection using Transfer Learning.</li>
+<li>Book Chapter (2022) – Loan e-signing predictions with ML.</li>
+</ul>
+</br>
+⚡ Interests:
+<ul>
+<li>Data Science, AI/ML, Generative AI (RAG, LangChain)</li>
+<li>Product Analytics & Process Automation</li>
+<li>Cloud & DevOps (Azure, Kubernetes, Terraform)</li>
+</ul>
+</br>
+🌱 Currently Exploring:
+Intelligent Automation, Product Management frameworks, and advanced ML techniques.
+</br>
+</br>
+🤝 Open to Collaborate On:
+Data Science, Business Analytics, and AI-driven product use cases.
+</br>
 </br>
   💬  Ask me about anything and everything!
+</br>
 </br>
   📫  How to reach me: <a href="mailto:rashisingh3004@gmail.com">rashisingh3004@gmail.com</a>
 </br>
