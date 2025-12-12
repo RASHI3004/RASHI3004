@@ -64,12 +64,6 @@ Data Science, Business Analytics, and AI-driven product use cases.
 
 ---
 
-## 📊 GitHub Stats  
-![Rashi's GitHub stats](https://github-readme-stats.vercel.app/api?username=RASHI3004&show_icons=true&hide_border=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RASHI3004)
-
----
-
 <p align="center">
 <a href="https://github.com/RASHI3004"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=GitHub&logoColor=white" /></a>
 <a href="http://www.linkedin.com/in/rashi-singh-83b649188"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
